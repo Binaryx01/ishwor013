@@ -14,9 +14,7 @@ Hi there! I'm Binaryx01, your friendly neighborhood coder with a passion for ASP
 
 ## 🤝 Let’s Connect!
 
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/your-profile)
-- **Personal Website**: [Your Website](https://yourwebsite.com)
+- **Instagram**: https://www.instagram.com/justbinary01/
 
 Feel free to browse my repositories, star the ones you like, and maybe leave a comment or two. And remember, every star helps a squirrel get its wings!
 

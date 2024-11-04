@@ -7,14 +7,11 @@ Hi there! I'm Binaryx01, your friendly neighborhood coder with a passion for ASP
 
 ## 🛠️ My Toolkit
 
-- **Languages**: C#, JavaScript, TypeScript (Fluent in CoffeeScript and Sarcasm)
-- **Frameworks**: ASP.NET Core, Unity (Not the Unity you see in a cheesy sci-fi movie)
-- **Tools**: Visual Studio, Git, Docker (for when you need your code in a tiny, portable container)
+- **Languages**: Html, css, Javascript, Php, Laravel, Android, Kotlin (Fluent in CoffeeScript and Sarcasm)
+- **Frameworks**: Laravel, Unity (Not the Unity you see in a cheesy sci-fi movie)
+- **Tools**: Visual Studio code,Visual Studio, Git, Docker (for when you need your code in a tiny, portable container)
 
 
-## 🤝 Let’s Connect!
-
-- **Instagram**: https://www.instagram.com/justbinary01/
 
 Feel free to browse my repositories, star the ones you like, and maybe leave a comment or two. And remember, every star helps a squirrel get its wings!
 

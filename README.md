@@ -1,24 +1,32 @@
-# Welcome to My GitHub!
+# 👋 Welcome to My GitHub!
 
-![Hello, World!]
-
-Hi there! I'm Binaryx01, your friendly neighborhood coder with a passion for ASP.NET Core and Game Development. If you’re here, it’s either because you’re interested in my code, or you’re lost and need directions to the nearest coffee shop. Either way, welcome!
-
-
-## 🛠️ My Toolkit
-
-- **Languages**: Html, css, Javascript, Php, Laravel, Android, Kotlin (Fluent in CoffeeScript and Sarcasm)
-- **Frameworks**: Laravel, Unity (Not the Unity you see in a cheesy sci-fi movie)
-- **Tools**: Visual Studio code,Visual Studio, Git, Docker (for when you need your code in a tiny, portable container)
-
-
-
-Feel free to browse my repositories, star the ones you like, and maybe leave a comment or two. And remember, every star helps a squirrel get its wings!
-
-Happy Coding! 🚀
-
-
+Hi there! I'm **Binaryx01** — a passionate web developer specializing in **Laravel** and **custom WordPress theme & plugin development**. Whether you're here to explore my code, collaborate, or just stumbled in looking for good code and coffee, you're absolutely welcome!
 
 ---
 
-> "If debugging is the process of removing software bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
+## 🧰 My Tech Stack
+
+- **Languages**: PHP, HTML, CSS, JavaScript
+- **Frameworks & Platforms**: Laravel, WordPress (Custom Theme & Plugin Development)
+- **Tools**: VS Code, Visual Studio, Git, Docker
+
+---
+
+## 🚀 What I Do
+
+I focus on building clean, scalable, and performance-oriented web applications using **Laravel**, and crafting custom, client-ready solutions for **WordPress** — from themes to complex plugins. Whether it's a school management system or a modern e-commerce site, I prioritize code quality and usability.
+
+---
+
+Feel free to explore my repositories, star your favorites, or drop a comment. Your feedback helps me grow — and gives my code some much-needed self-esteem.
+
+---
+
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.”  
+> — *Edsger W. Dijkstra*  
+>  
+> ...Good thing I only write **bug-free Laravel and WordPress code. 😉***
+
+---
+
+Happy coding! 🙌  
